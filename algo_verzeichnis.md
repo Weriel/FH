@@ -1,0 +1,41 @@
+
+## Inhaltsverzeichnis
+
+- Algorithmen:
+    - Sortieren:
+        - Vergleichsbasiert:
+            - O(n²):
+                - Bubble Sort
+                - ...
+            - O(n*log(n)):
+                - Merge Sort
+                - Insertion Sort
+                - Heap Sort
+        - Größenbasiert:
+            - O(n):
+                - Radix Sort
+                - Counting Sort
+                - Bucket Sort
+    - Suchen:
+        - Binäre Suche
+        - Lineare Suche
+- Datenstrukturen:
+    - Listen:
+        - Linked List
+        - Liste
+        - Queue
+        - Stack
+    - Bäume:
+        - Binary Search Tree
+        - AVL Tree
+        - Mehrweg- Suchbäume:
+            - B- Baum
+            - B+- Baum
+            - B*- Baum
+    - Trie
+    - Priority Queue
+- Paradigmen:
+	- Divide and Conquer
+	- Brute Force/Greedy
+	- Dynamic Programming
+	- Backtracking
